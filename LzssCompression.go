@@ -1,6 +1,5 @@
 package lzss
 
-// LzssSettings and DefaultSettings implementations remain unchanged
 type LzssSettings struct {
 	FrameSize      int
 	FrameFill      byte
